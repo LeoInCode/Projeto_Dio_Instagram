@@ -6,6 +6,6 @@ Por ser um visual simples, nada a mais foi acrescentado, apenas houve uma mudanÃ
 
 ---
 
-### Ferramentas
+### ğŸš€ Ferramentas
 - HTML
 - CSS
